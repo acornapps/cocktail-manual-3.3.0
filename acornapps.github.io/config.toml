@@ -1,6 +1,6 @@
 baseURL = "http://acornapps.github.io"
 languageCode = "kr-ko"
-title = "$HELLO_PROG^"
+title = "칵테일 클라우드"
 theme = "hugo-theme-learn"
 
 disqusShortname = "XXXXXXXXXXXXXXX"
@@ -9,6 +9,10 @@ googleAnalytics = "UA-XXXXXXXXXX-X"
 
 paginate = 7
 
+
 [author]
     name = "cloud.jung"
     email = "cloud.jung@acornsoft.io"
+
+[params]
+    baseurl = "/static/images"
