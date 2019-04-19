@@ -15,4 +15,5 @@ paginate = 7
     email = "cloud.jung@acornsoft.io"
 
 [params]
-    baseurl = "/static/images"
+    baseurl = "/images"
+    version = "3.1.1"

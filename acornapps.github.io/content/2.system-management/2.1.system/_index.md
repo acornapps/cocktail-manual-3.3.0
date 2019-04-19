@@ -9,7 +9,7 @@ weight: 1
 
 **a) 좌측 메인메뉴 → 시스템**
 
-![](/images/assets/KR/3.1.1/2.1_1.png)
+![]({{< param baseurl >}}/assets/KR/{{< param version >}}/2.1_1.png)
 
 | **시스템 정보** | **설명** |
 | :--- | :--- |
