@@ -1,5 +1,5 @@
 ---
-title : 2.1.시스템
+title : 2.1 시스템
 description : List the child pages of a page
 weight: 1
 ---
@@ -7,8 +7,9 @@ weight: 1
 ---
 시스템 이용에 필요한 시스템 정보, 계정 정보, 클라우드 미터링 계정, 시스템 사용자를 관리 할 수 있다.
 
-### a\) 좌측 메인메뉴 → 시스템
-![]({{ site.baseurl }}/assets/KR/{{ site.version }}/2.1_1.png)
+**a) 좌측 메인메뉴 → 시스템**
+
+![](/images/assets/KR/3.1.1/2.1_1.png)
 
 | **시스템 정보** | **설명** |
 | :--- | :--- |
