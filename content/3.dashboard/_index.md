@@ -33,4 +33,4 @@ pre = "<b>3. </b>"
 
   사용 중인 서비스 별로 자원(CPU/Memory) 할당량을 확인 할 수 있다.
 
-![]({{< param baseurl >}}/assets/KR/{{< param version >}}/3_1.png)
+![]({{< param imageRootDir >}}/assets/KR/{{< param version >}}/3_1.png)

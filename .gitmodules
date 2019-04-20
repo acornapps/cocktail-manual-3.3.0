@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/acornapps/cocktail-manual-3.3.0-public.git
+	branch = master

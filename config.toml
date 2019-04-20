@@ -1,4 +1,4 @@
-baseURL = "http://acornapps.github.io"
+baseURL = "http://acornapps.github.io/cocktail-manual-3.3.0-public"
 languageCode = "kr-ko"
 title = "칵테일 클라우드"
 theme = "hugo-theme-learn"
@@ -8,5 +8,5 @@ theme = "hugo-theme-learn"
     email = "cloud.jung@acornsoft.io"
 
 [params]
-    baseurl = "/images"
+    imageRootDir = "/cocktail-manual-3.3.0-public/images"
     version = "3.1.1"
