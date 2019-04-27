@@ -2,6 +2,9 @@ baseURL = "http://acornapps.github.io/cocktail-manual-3.3.0-public"
 languageCode = "kr-ko"
 title = "칵테일 클라우드"
 theme = "hugo-theme-learn"
+defaultContentLanguage = "ko"
+defaultContentLanguageInSubdir= true
+
 
 [author]
     name = "cloud.jung"
@@ -10,3 +13,26 @@ theme = "hugo-theme-learn"
 [params]
     imageRootDir = "/cocktail-manual-3.3.0-public/images"
     version = "3.1.1"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+
+[Languages]
+[Languages.ko]
+title = "칵테일 클라우드 메뉴얼"
+weight = 1
+languageName = "Korean"
+contentDir = "content/ko"
+
+[Languages.en]
+title = "Cocktial Cloud Manual"
+weight = 2
+languageName = "English"
+contentDir = "content/en"
+
+[Languages.zh]
+title = "Cocktial Cloud Manual"
+weight = 2
+languageName = "Chinese"
+contentDir = "content/zh"
