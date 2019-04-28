@@ -33,6 +33,12 @@ contentDir = "content/en"
 
 [Languages.zh]
 title = "Cocktial Cloud Manual"
-weight = 2
+weight = 3
 languageName = "Chinese"
 contentDir = "content/zh"
+
+[Languages.ja]
+title = "Cocktial Cloud Manual"
+weight = 4
+languageName = "Japanese"
+contentDir = "content/ja"
